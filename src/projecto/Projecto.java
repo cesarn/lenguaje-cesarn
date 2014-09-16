@@ -17,7 +17,7 @@ public class Projecto {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Mi primer programa feo");
+        System.out.println("Mi primer programa feo nada");
     }
     
 }
